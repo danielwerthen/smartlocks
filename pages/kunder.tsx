@@ -4,12 +4,12 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Smartlocks</title>
+        <title>Kunder | Smartlocks</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <section className="blue">
         <div className="standard-block">
-          <h1>Vi digitaliserar nycklar</h1>
+          <h1>Kunder</h1>
         </div>
       </section>
       <section className="white">
